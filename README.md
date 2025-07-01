@@ -37,10 +37,12 @@ adjust LOGIN_URL or field names if your Kerio login page is customized.
 
 
 ### 3. Edit login_script.bat
-replace autologin.py path:
+replace autologin.py path with your real path:
 
-bash```@echo off
-py "C:\full\path\to\autologin.py"```
+```
+@echo off
+py "C:\full\path\to\autologin.py"
+```
 
 ### 4. Add to Task Scheduler
 
