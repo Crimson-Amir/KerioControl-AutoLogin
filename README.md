@@ -34,7 +34,7 @@ It is currently built and tested for **Windows**, using **Task Scheduler** to de
 
 ```
 git clone git@github.com:Crimson-Amir/KerioControl-AutoLogin.git
-cd kerio-auto-login
+cd KerioControl-AutoLogin
 ```
 ### 2. Edit autologin.py
 Replace USERNAME and PASSWORD with your login information.
