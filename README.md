@@ -33,7 +33,7 @@ It is currently built and tested for **Windows**, using **Task Scheduler** to de
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/kerio-auto-login.git
+git clone git@github.com:Crimson-Amir/KerioControl-AutoLogin.git
 cd kerio-auto-login
 ```
 ### 2. Edit autologin.py
