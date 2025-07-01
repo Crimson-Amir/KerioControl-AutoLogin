@@ -93,8 +93,12 @@ We'd love your help to bring support to more platforms!
 Also welcome:
 
 🔒 Secure credential storage
+
 🖼️ GUI or tray icon version
+
 🌍 Multi-router/captive-portal compatibility
+
 🧪 Unit testing / CI
+
 Just fork this repo and open a PR or issue — happy to collaborate 💬
 
