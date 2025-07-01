@@ -22,12 +22,6 @@ It is currently built and tested for **Windows**, using **Task Scheduler** to de
 
 ---
 
-## 📷 Demo
-
-> _Coming soon!_ (or you can record a short screen capture showing it in action)
-
----
-
 ## 🖥️ Usage (Windows Only for Now)
 
 ### 1. Clone the Repository
