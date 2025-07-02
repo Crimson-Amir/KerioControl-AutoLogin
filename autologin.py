@@ -15,6 +15,8 @@ if get_ssid() != "Keyhan":
     exit()
 
 # -- Proceed with login --
+USERNAME = ""
+PASSWORD = ""
 
 payload = {
     "kerio_username": USERNAME,
